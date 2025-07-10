@@ -1,0 +1,4 @@
+name = "cors-proxy-worker"
+main = "src/index.js"
+compatibility_date = "2024-07-09"
+usage_model = "bundled"
